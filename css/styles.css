@@ -10107,6 +10107,25 @@ p.lead {
     display: block;
   }
 }
+.download {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 3.5rem;
+  background-color: #495057;
+  color: #fff;
+  border-radius: 20%;
+  font-size: 1.5rem;
+  margin-right: 1.5rem;
+  padding-left: 0.5rem;
+  padding-right:0.5rem;
+}
+.download:last-child {
+  margin-right: 0;
+}
+.download:hover{
+  background-color:#b77cd6;
+}
 .social-icons .social-icon {
   display: inline-flex;
   align-items: center;
