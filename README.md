@@ -1,2 +1,2 @@
-# lil shit website
-# watch me grow and beat yo ass!! 
+# chowsy.github.io 
+Resume website
