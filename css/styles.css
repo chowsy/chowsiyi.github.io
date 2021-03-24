@@ -10114,14 +10114,11 @@ p.lead {
   height: 3.5rem;
   background-color: #495057;
   color: #fff;
-  border-radius: 20%;
+  border-radius: 10%;
   font-size: 1.5rem;
   margin-right: 1.5rem;
   padding-left: 0.5rem;
   padding-right:0.5rem;
-}
-.download:last-child {
-  margin-right: 0;
 }
 .download:hover{
   background-color:#b77cd6;
